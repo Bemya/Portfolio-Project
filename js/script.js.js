@@ -16,4 +16,4 @@ window.onscroll = () => {
 	navlist.classList.remove('open');
 };
 
-exports.build = series(scssTask, jsTask);
+
